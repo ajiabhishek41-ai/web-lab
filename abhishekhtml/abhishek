@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>pgm1</title>
+</head>
+<body bgcolor="orange">
+<u>
+<center>
+<h1>ICET</h1>
+</center>
+<h2>Department of MCA</h2>
+</u>
+<p>Mca is a master of computer application</p>
+<u>it is a pg course</u>
+<ul>
+<li>semester 1</li>
+<li>semester 2</li>
+<li>semester 3</li>
+<li>semester 4</li>
+</ul>
+<table border="2">
+<tr>
+<th>Name</th>
+<th>Subject</th>
+<th>Marks</th>
+</tr>
+<td>Abhishek</td>
+<td>Maths</td>
+<td>100</td>
+<tr>
+<td>adarsh</td>
+<td>english</td>
+<td>60</td>
+</tr>
+</body>
+</html>
+

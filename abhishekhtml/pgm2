@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>Time table</title>
+</head>
+<body>
+<center>
+<h1>Time table of MCA S1 2025-2026</h1>
+</center>
+<table border="2"bgcolor="skyblue">
+<tr>
+<th>day</th>
+<th>1<br>(9:00-9:55)</th>
+<th>2<br>(9:56-10:50)</th>
+<th>BREAK</th>
+<th>3<br>(11:10-12:05)</th>
+<th>4<br>(12:05-1:00)</th>
+<th>BREAK</th>
+<th>5<br>(1:50-2:45)</th>
+<th>6<br>(2:46-3:40)</th>
+<th>7<br>(03:45-4:30)</th>
+</tr>
+<tr>
+<td>Monday</td>
+<td>MATHS<br>(JJ)</td>
+<td>DFCA<br>(SM)</td>
+<td rowspan="5">BREAK</td>
+<td>ds<br>(AA)</td>
+<td>se<br>(AR)</td>
+<td rowspan="5">BREAK</td>
+<td>ds lab<br>(AA)</td>
+<td>ds lab<br>(AA)</td>
+<td rowspan="5">BREAK</td>
+<td>library</td>
+</tr>
+<tr>
+<td>Tuesday</td>
+<td>WEB LAB<br>(SM)</td>
+<td>WEB LAB<br>(SM)</td>
+<td>DS LAB<br>(AA)</td>
+<td>DS LAB<br>(AA)</td>
+<td>MATHS<br>(jj)</td>
+<td>DFCA<br>(sm)</td>
+<td>SE<br>(ar)</td>
+</tr>
+<tr>
+<td>Wednesday</td>
+<td>SE<br>(AR)</td>
+<td>DS<br>(AA)</td>
+<td>SE<br>(AR)</td>
+<td>MATHS<br>(JJ)</td>
+<td>PYTHON LAB<br>(SKM)</td>
+<td>PYTHON LAB<br>(SKM)</td>
+<td>DS<br>(AA)</td>
+</tr>
+<tr>
+<td>thursday</td>
+<td>WEB LAB<br>(SM)</td>
+<td>WEB LAB<br>(SM)</td>
+<td>DS LAB<br>(AA)</td>
+<td>DS LAB<br>(AA)</td>
+<td>MATHS<br>(jj)</td>
+<td>DFCA<br>(sm)</td>
+<td>SE<br>(ar)</td>
+</tr>
+<tr>
+<td>friday</td>
+<td>SE<br>(AR)</td>
+<td>DS<br>(AA)</td>
+<td>SE<br>(AR)</td>
+<td>MATHS<br>(JJ)</td>
+<td>PYTHON LAB<br>(SKM)</td>
+<td>PYTHON LAB<br>(SKM)</td>
+<td>DS<br>(AA)</td>
+</tr>
+</body>
+</head>
+</html>
+
